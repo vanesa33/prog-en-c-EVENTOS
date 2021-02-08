@@ -1,0 +1,10 @@
+C:\Users\Ivanesa\source\repos\eventos\eventos\bin\Debug\eventos.exe.config
+C:\Users\Ivanesa\source\repos\eventos\eventos\bin\Debug\eventos.exe
+C:\Users\Ivanesa\source\repos\eventos\eventos\bin\Debug\eventos.pdb
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.Form1.resources
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.Properties.Resources.resources
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.csproj.GenerateResource.cache
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.exe
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.pdb
+C:\Users\Ivanesa\source\repos\eventos\eventos\obj\Debug\eventos.csproj.CoreCompileInputs.cache
